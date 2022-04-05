@@ -16,3 +16,5 @@ export default {
         cb(null, decode);
     }
 }
+
+// test
